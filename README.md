@@ -55,7 +55,9 @@ pip install -r requirements.txt
 
 # Run the app
 streamlit run app.py
-🔮 Future Improvements
+
+
+# 🔮 Future Improvements
 ✅ Integrate real-time Google Ads Keyword Planner API
 
 ✅ NLP-based keyword clustering
@@ -68,10 +70,10 @@ streamlit run app.py
 
 
 
-🙌 Acknowledgments
+# 🙌 Acknowledgments
 Created with ❤️ using Python, Streamlit, and creativity for digital marketers and SEO enthusiasts.
 
-📬 Contact
+# 📬 Contact
 If you have any suggestions, questions, or want to collaborate, feel free to connect:
 
 Lankapalli Mahitha Chopra
